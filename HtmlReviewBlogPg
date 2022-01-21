@@ -31,5 +31,7 @@
         and if there were elements within the child elements they would be grandchild elements. However,
         the wording changes. When referring to the grandchild we address it as the main element, and the 
         child element becomes the parent element and so forth.-->
+
+        <a href="secondpage.html">time to get technical with links!</a>
     </body>
 </html>
