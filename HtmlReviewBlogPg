@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!--This is my html foundations review project. I plan to create a blog from what I learn and re-learn.
+        Should help with both touching those basic concepts and exercising the good ol' creativity/ingenuity.-->
+        <title>
+            MyCodingBlog
+        </title>
+    </head>
+    <body>
+        <h1>HTML Foundations review</h1>
+
+        <h2>What is html?</h2>
+
+        <p>"Hyper Text Markup Language" or HTML is the backbone of web development.
+            however it is a scripting language rather than a programming language.
+        </p>
+        
+        <quote>A script is a sequence of instructions that is interpreted 
+            by a program rather than  by the computer processor.</quote>
+        
+        <h2>HTML Syntax</h2>
+
+        <p>HTML syntax works through the use of "<>" to indicate the beginning of an element and "</>" to indicate the ending, these are known as opening and closing tags.</p>
+
+        <!--nesting, when an element is nested within another it is called a child element.
+        For instance the body element is the parent element the h1, h2 and p elements are child elements,
+        and if there were elements within the child elements they would be grandchild elements. However,
+        the wording changes. When referring to the grandchild we address it as the main element, and the 
+        child element becomes the parent element and so forth.-->
+    </body>
+</html>
