@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>
+        HTML second page!
+    </title>
+</head>
+<body>
+    <h1>The second html review page!</h1>
+    <a href="index.html"> A working go home link!</a>
+    
+    <a href="https://google.com" target="_blank"> A working open link in a new tab!</a>
+</body>
+</html>
+
+<!--this second page is an exercise to linking pages, here we see a couple of things (and i don't just mean the two working links!) 
+1. we see how local files and web resources are linked to our site.
+2. we start to see the importance of good organization with our files. Since the first link is using our local files and they work best for us if we have them in the same local file.-->
